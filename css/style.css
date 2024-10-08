@@ -1,0 +1,33 @@
+.font-style{
+    font-family: "Pacifico", cursive;
+    font-size: 30px;
+}
+
+.main{
+    margin-top: 5%;
+}
+
+.carousel-item a{
+    margin-bottom:50px;
+    line-height: 20px;
+}
+
+.carousel-item p{
+font-size: small;
+padding: 10px;
+}
+
+.carousel-item h2{
+    color: yellow;
+}
+
+.carousel-inner img{
+    margin-top: 10%;
+    border: 18px solid rgb(172, 13, 106);
+    border-radius:100px;
+}
+
+.card-body p{
+    margin-top: 30%;
+    font-size:smaller;
+}
